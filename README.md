@@ -36,8 +36,11 @@ poetry install
 1. Download and install Neo4j Desktop or Neo4j Community Edition
 2. Start Neo4j service
 3. Set default password (usually 'password' for development)
-   *Before first run/init, you can change the default password using:*
-   > ./bin/neo4j-admin dbms set-initial-password *{password}*
+   ```bash
+   # Before first run/init, you can change the default password using:
+   ./bin/neo4j-admin dbms set-initial-password {password}
+   ```
+   
 
 #### Option B: Docker (Recommended for Development)
 
