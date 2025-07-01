@@ -13,7 +13,7 @@ A comprehensive learning repository for Neo4j graph database development and Kub
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - Poetry (for dependency management)
 - Neo4j Database (local or remote)
 
